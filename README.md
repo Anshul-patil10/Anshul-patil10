@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Anshul-patil10
-- 👀 I’m interested in web development and tech
-- 🌱 I’m currently learning front-end 
+- 👋 Hi, I’m @Anshul-patil
+- 👀 I’m interested in web development, devops(but not started yet).
+- 🌱 I’m currently learning front-end development.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
